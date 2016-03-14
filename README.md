@@ -1,2 +1,2 @@
 # helloworld
-just study it
+just study i
